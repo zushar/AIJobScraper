@@ -57,14 +57,12 @@ class OpenAIAssistant:
         return OpenAIAssistant.get_user_messages(self.__get_thread_messages())[0]
 
 # if __name__ == "__main__":
-#     api_key = "sk"
-#     assistant_name = "Math Tutor"
-#     instructions = ""
-#     # instructions = """You are coordinating professional resumes.
-#     #  Answer with 'yes' or 'no' or 'maybe' and provide an explanation.
-#     #  If there is any doubt, the answer should be 'maybe'."""
+#     api_key = "
+#     instructions = """You are coordinating professional resumes.
+#      Answer with 'yes' or 'no' or 'maybe' and provide an explanation.
+#      If there is any doubt, the answer should be 'maybe'."""
 #     model = "gpt-4o-mini"
-#
+
 #     assistant = OpenAIAssistant(api_key, assistant_name, instructions, model)
 #     print(assistant.assistant.id)
 #     print(assistant.submit_message("how are you"))

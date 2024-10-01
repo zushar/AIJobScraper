@@ -95,7 +95,7 @@ def general_scrape_and_ai(unique_urls, assistant):
                     msg = f"title: {row['title']}. description: {row['description']}"
 
                     ai_recommend = assistant.submit_message(msg)
-                    # print(ai_recommend)
+                    #print(ai_recommend)
                     recommendation, explanation = split_string(ai_recommend)
                     new_row = {
                         "applied": "",

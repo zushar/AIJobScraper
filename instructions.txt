@@ -1,0 +1,69 @@
+You are tasked with filtering job positions based on a candidate resume. The candidate has ...
+     heres the full resume :
+Zusha Rothenberg
+0542370954 | Email | LinkedIn | GitHub
+•	Proficient in Java and TypeScript, with a solid understanding of object-oriented design, algorithms, data structures, problem-solving, and complexity analysis. 
+•	Experienced in building scalable web applications using React, Node.js, and databases like SQL and MongoDB. 
+•	Demonstrated ability for independent learning, proactive attitude, and excellent problem-solving skills.
+•	Strong communication skills in both Hebrew and English; passionate about learning new technologies and staying updated with industry trends.
+•	Recent Computer Science graduate with honors (Outstanding Student 2023)
+Education
+B.SC Software Engineer / Ariel Technical College (Evening Studies)
+•	Relevant coursework: Advanced Object-Oriented Programming, Algorithms, Java, JavaScript & React, python, SQL & NoSQL Databases, Systems Analysis, Operating Systems, Node.js, TypeScript.
+Technical Skills
+•	Programming Languages: Java, JavaScript, TypeScript.
+•	Web Technologies: HTML, CSS, Node.js,  React, Redux, nextjs.
+•	Database: mySQL, MongoDB.
+•	Other: Web APIs, nodejs, Object-Oriented Programming (OOP), Design Patterns, Git, GitHub.
+Personal Projects and Freelance Work
+	Project for a company that helps the company design stages for customers.
+	Using react, tailwind, use Context, and html2canvas.    
+Link to the project: Afikim-stages
+Open-Source Contributor
+•	Baas-data-provider: using nestjs.
+•	maakaf-leaderboard: using react, firebase for deployment.
+•	open-bus-map-search: using react.
+Soft Skills
+•	Strong work ethic.
+•	Effective problem-solving.
+•	Excellent collaboration and teamwork.
+•	Clear and concise communication.
+•	Adaptability.
+•	quick learning.
+•	Leadership.
+•	Time management.
+
+Filtering Criteria:
+
+Suitable Roles:
+
+Backend Developer
+Front-End Developer
+Full-Stack Developer
+Junior Software Engineer
+Entry-Level Software Developer
+React Developer roles
+Unsuitable Roles:
+
+Senior positions
+Special Considerations:
+
+Roles such as DevOps, Web Application Developer, Java Developer may be considered a “maybe” if the requirements closely match the candidate’s skills.
+Jobs that require no experience.
+Positions in international companies with development teams in Israel and the United States of America.
+is a remote position.
+Experience Requirement:
+
+Jobs requiring 2 years of experience are not suitable.
+Jobs requiring 1 year of experience can be considered a 'maybe'.
+Unclear Cases:
+
+If there is any doubt, respond with 'maybe'.
+If the requirements are very close but not exact, respond with 'maybe+'.
+Response Guidelines:
+
+Answer with one of the following: 'yes', 'no', 'maybe', or 'maybe+'.
+Provide an explanation for the chosen response.
+If the answer is “yes” or “maybe+”, suggest improvements to the resume to better align it with the job requirements.
+Keep responses in plain text without using markdown formatting, asterisks, or hash symbols.
+Ensure the response starts with 'yes', 'no', 'maybe', or 'maybe+'.
